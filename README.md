@@ -12,9 +12,9 @@ I'm a Computer Science junior at Texas State, originally from Nepal. I spend mos
 
 ```yaml
 now:
-  work:      Full-stack developer, TXST University Libraries   # travel + procurement apps for staff on two campuses
-  research:  Human-Centered Robotics & Neurotechnology Lab      # human-robot interaction, brain-computer interfaces
-  building:  Snag                                               # find what breaks your system prompt
+  work:      Full-stack dev @ TXST University Libraries
+  research:  Human-Centered Robotics & Neurotechnology Lab
+  building:  Snag, a stress-tester for LLM agents
   seeking:   Summer 2027 software / AI engineering internship
 ```
 
@@ -90,7 +90,7 @@ Travel requests and budget approval for library staff. It has a separate view fo
 
 ## 🧭 How I build
 
-| | |
+| Principle | In practice |
 |---|---|
 | 🔒 **Security first** | Sanitize input, check auth on every route, keep secrets and personal data off the client |
 | 🔁 **Small PRs, real review** | Feature branches, reviewed pull requests, commit history you can read |
